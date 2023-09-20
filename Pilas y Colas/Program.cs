@@ -12,7 +12,8 @@ namespace Pilas_y_Colas
     {
         static void Main(string[] args)
         {
-            
+            MostrarCola(3);
+            MostrarPila(3);
             Console.ReadKey();
         }
 
